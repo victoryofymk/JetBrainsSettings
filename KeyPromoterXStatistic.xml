@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>59</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug</Description>
-          <Count>66</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AddedBizOrderS....main()'">
@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'HbhdcPayServiceApplication'</Description>
-          <Count>126</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HbhdcPayWebApplication'">
@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'HbhdcPayWebApplication'</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HbhdcUserInterfaceOu...'">
@@ -126,7 +126,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'HbhdcUserInterfaceOu...'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HbhdcUserInterfaceOutDcnApplication'">
@@ -209,6 +209,14 @@
           <Count>24</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Duplicate">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Duplicate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
@@ -230,7 +238,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute</Description>
-          <Count>23</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find...">
@@ -270,7 +278,15 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'⇧⌘M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Open Console</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -287,6 +303,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⌘I'</ShortCut>
+          <Description>Properties</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -334,7 +358,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>41</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reveal in Finder">
@@ -342,7 +366,7 @@
           <IdeaActionID>RevealIn</IdeaActionID>
           <ShortCut>'⌃⌘O'</ShortCut>
           <Description>Reveal in Finder</Description>
-          <Count>34</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -409,6 +433,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'deploy_user-out'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'deploy_user-out'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'deploy_userdcn'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -446,7 +478,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HbhdcPayServiceApplication'">
@@ -462,7 +494,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HbhdcPayWebApplication'</Description>
-          <Count>21</Count>
+          <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HbhdcUserInterfaceOutInternetApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'HbhdcUserInterfaceOutInternetApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'InterfaceSafeProvideApplication'">
@@ -502,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>71</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -518,7 +558,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -526,7 +566,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -534,7 +574,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>120</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -542,7 +582,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>96</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">
@@ -550,7 +590,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>323</Count>
+          <Count>324</Count>
         </Item>
       </Statistic>
     </option>
