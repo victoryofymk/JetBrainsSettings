@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AddedBizOrderS....main()'">
@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'HbhdcPayServiceApplication'</Description>
-          <Count>137</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HbhdcPayWebApplication'">
@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'HbhdcPayWebApplication'</Description>
-          <Count>80</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HbhdcUserInterfaceOu...'">
@@ -135,6 +135,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'HbhdcUserInterfaceOutDcnApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'HbhdcUserInterfaceOutInternetApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'HbhdcUserInterfaceOutInternetApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HbhdcUserServiceApplication'">
@@ -406,7 +414,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'deploy_pay-service'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'deploy_pay-web'">
@@ -414,7 +422,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'deploy_pay-web'</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'deploy_product'">
@@ -494,7 +502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HbhdcPayWebApplication'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'HbhdcUserInterfaceOutInternetApplication'">
@@ -542,7 +550,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -582,7 +590,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>100</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">
