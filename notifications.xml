@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Iedis" displayType="NONE" shouldLog="false" />
-    <notification groupId="mybatisCodeHelper" shouldLog="false" />
-  </component>
-</application>
