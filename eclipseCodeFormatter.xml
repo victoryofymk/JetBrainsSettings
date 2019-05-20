@@ -1,0 +1,22 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="312" />
+        <option name="firstUsage" value="1540452288343" />
+        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
+      </DonationNagger>
+    </option>
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1490084263237" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/config/mine.xml" />
+          <option name="selectedJavaProfile" value="mine" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,109 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="sonar-local">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="sonar_local">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble" />
+                <option name="name" value="bubble" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component" />
+                <option name="name" value="bubble-component" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-codetools" />
+                <option name="name" value="bubble-component-codetools" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-cucumber" />
+                <option name="name" value="bubble-component-cucumber" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-email" />
+                <option name="name" value="bubble-component-email" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-httpclient" />
+                <option name="name" value="bubble-component-httpclient" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-imageprocess" />
+                <option name="name" value="bubble-component-imageprocess" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-log" />
+                <option name="name" value="bubble-component-log" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-manage" />
+                <option name="name" value="bubble-component-manage" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-schedule" />
+                <option name="name" value="bubble-component-schedule" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-component-shiro" />
+                <option name="name" value="bubble-component-shiro" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-core" />
+                <option name="name" value="bubble-core" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-dao" />
+                <option name="name" value="bubble-dao" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-springboot" />
+                <option name="name" value="bubble-springboot" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-springboot-admin" />
+                <option name="name" value="bubble-springboot-admin" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-springboot-web" />
+                <option name="name" value="bubble-springboot-web" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.it.ymk:bubble-springcloud" />
+                <option name="name" value="bubble-springcloud" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="org.springframework.boot:bubble-springcloud-eureka" />
+                <option name="name" value="bubble-springcloud-eureka" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
