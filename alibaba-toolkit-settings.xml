@@ -1,6 +1,0 @@
-<application>
-  <component name="DockerStore">
-    <option name="dockerConnectionType" value="UNIXSOCK" />
-    <option name="dockerLocation" value="unix:///var/run/docker.sock" />
-  </component>
-</application>
