@@ -3,6 +3,7 @@
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
     <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="showTipsOnStartup" value="false" />
     <option name="useDefaultBrowser" value="false" />
   </component>
   <component name="Registry">
@@ -20,5 +21,7 @@
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
 </application>
