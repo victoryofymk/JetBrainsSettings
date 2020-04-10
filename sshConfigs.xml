@@ -1,0 +1,12 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.12.12.56" id="d1bce9d2-a9e4-4673-985b-1910c78eec2e" port="22" customName="深圳_webbas_dev" nameFormat="CUSTOM" username="webbas" />
+      <sshConfig authType="PASSWORD" host="10.12.12.107" id="7d93347d-ce18-48db-9be7-63be39c8562f" port="22" customName="宁夏_webbas_dev" nameFormat="CUSTOM" username="sx_dev" />
+      <sshConfig authType="PASSWORD" host="10.12.12.107" id="0b1e62e3-ce2c-438b-8141-296f462eb4a5" port="22" customName="甘肃_webbas_dev" nameFormat="CUSTOM" username="sx_dev" />
+      <sshConfig authType="PASSWORD" host="10.12.12.107" id="de862fee-aab1-4601-87cf-a9485beddc16" port="22" customName="陕西_webbas_dev" nameFormat="CUSTOM" username="sx_dev" />
+      <sshConfig authType="PASSWORD" host="10.12.12.107" id="59463aad-01a4-46f0-afab-9a2331c93ffe" port="22" customName="智能融合_llyy_dev" nameFormat="CUSTOM" username="sx_dev" />
+      <sshConfig authType="PASSWORD" host="10.12.12.107" id="b6f21d4d-03d5-4dd4-aea9-cf299d28d332" port="22" customName="智能融合_llyy_dev" nameFormat="CUSTOM" username="sx_dev" />
+    </configs>
+  </component>
+</application>
