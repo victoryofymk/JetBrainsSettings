@@ -1,54 +1,54 @@
 <toolSet name="External Tools">
-  <tool name="深圳_webbas_关闭" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="837d18cd-9257-466f-99ff-81b4cbd67a94">
+  <tool name="深圳_webbas_关闭" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="深圳_webbas_dev" CONNECTION_ADDITIONAL_DATA="61264d81-fbdb-4b73-81fc-a08e36742747">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="shutdown.sh" />
       <option name="WORKING_DIRECTORY" value="/opt/aspire/product/webbas/tomcat-webbas/bin" />
     </exec>
   </tool>
-  <tool name="深圳_webbas_启动" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="837d18cd-9257-466f-99ff-81b4cbd67a94">
+  <tool name="深圳_webbas_启动" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="深圳_webbas_dev" CONNECTION_ADDITIONAL_DATA="61264d81-fbdb-4b73-81fc-a08e36742747">
     <exec>
       <option name="COMMAND" value="/usr/bin/nohup" />
       <option name="PARAMETERS" value="./startup.sh" />
       <option name="WORKING_DIRECTORY" value="/opt/aspire/product/webbas/tomcat-webbas/bin" />
     </exec>
   </tool>
-  <tool name="深圳_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="837d18cd-9257-466f-99ff-81b4cbd67a94">
+  <tool name="深圳_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="深圳_webbas_dev" CONNECTION_ADDITIONAL_DATA="61264d81-fbdb-4b73-81fc-a08e36742747">
     <exec>
       <option name="COMMAND" value="/usr/bin/nohup" />
       <option name="PARAMETERS" value="./restart.sh" />
       <option name="WORKING_DIRECTORY" value="/opt/aspire/product/webbas/tomcat-webbas/bin" />
     </exec>
   </tool>
-  <tool name="宁夏_webbas_关闭" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="745d4c20-5695-43fa-b751-13cb66cb525a">
+  <tool name="宁夏_webbas_关闭" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="宁夏_webbas_dev" CONNECTION_ADDITIONAL_DATA="cf211efa-2914-4338-b981-4eb1ffd840cb">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="shutdown.sh" />
       <option name="WORKING_DIRECTORY" value="/opt/aspire/product/sx_dev/tomcat-webBas_ningxia/bin" />
     </exec>
   </tool>
-  <tool name="宁夏_webbas_启动" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="745d4c20-5695-43fa-b751-13cb66cb525a">
+  <tool name="宁夏_webbas_启动" description="重启webbas" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="宁夏_webbas_dev" CONNECTION_ADDITIONAL_DATA="cf211efa-2914-4338-b981-4eb1ffd840cb">
     <exec>
       <option name="COMMAND" value="/usr/bin/nohup" />
       <option name="PARAMETERS" value="./startup.sh" />
       <option name="WORKING_DIRECTORY" value="/opt/aspire/product/sx_dev/tomcat-webBas_ningxia/bin" />
     </exec>
   </tool>
-  <tool name="宁夏_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="745d4c20-5695-43fa-b751-13cb66cb525a">
+  <tool name="宁夏_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="宁夏_webbas_dev" CONNECTION_ADDITIONAL_DATA="cf211efa-2914-4338-b981-4eb1ffd840cb">
     <exec>
       <option name="COMMAND" value="/usr/bin/nohup" />
       <option name="PARAMETERS" value="./restart.sh" />
       <option name="WORKING_DIRECTORY" value="/opt/aspire/product/sx_dev/tomcat-webBas_ningxia/bin" />
     </exec>
   </tool>
-  <tool name="甘肃_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="69bf6e0e-088f-41eb-a9d5-b7e56cd934be">
+  <tool name="甘肃_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="甘肃_webbas_dev" CONNECTION_ADDITIONAL_DATA="7f2141ac-34b9-47f3-926c-ba4d6df99bea">
     <exec>
       <option name="COMMAND" value="/usr/bin/nohup" />
       <option name="PARAMETERS" value="./restart.sh" />
       <option name="WORKING_DIRECTORY" value="/opt/aspire/product/sx_dev/tomcat-webBas_gansu/bin" />
     </exec>
   </tool>
-  <tool name="陕西_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="16fc902d-8233-4c7c-831f-abd5d524a506">
+  <tool name="陕西_webbas_重启" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="陕西_webbas_dev" CONNECTION_ADDITIONAL_DATA="26a7c73d-b3a6-41e5-8308-c9ac85677765">
     <exec>
       <option name="COMMAND" value="/usr/bin/nohup" />
       <option name="PARAMETERS" value="./restart.sh" />
