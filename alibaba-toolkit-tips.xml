@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/GitHub/bubble" firstStartUp="false" />
     <entry projectName="$USER_HOME$/GitHub/java-learning" firstStartUp="false" />
   </component>
 </application>
