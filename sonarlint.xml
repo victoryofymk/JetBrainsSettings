@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:10001/" />
+          <token>df9bdf9cdf9ddf98dfc8dfcbdf9adf99df9fdf99df98df99df9cdf9cdf99df9ddfc9dfc8df9cdf9cdf9cdf93df9bdf9ddf9adf9adfc9df92dfcbdfcedf9fdf9ddf9bdf9fdfcfdf99df99dfc9df92df99</token>
+          <option name="name" value="sonarqube-local" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
