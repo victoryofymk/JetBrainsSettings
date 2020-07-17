@@ -1,7 +1,9 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/GitHub/Ffast-FE" firstStartUp="false" />
     <entry projectName="$USER_HOME$/GitHub/bubble" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/GitHub/bubble-vue" firstStartUp="false" />
     <entry projectName="$USER_HOME$/GitHub/java-learning" firstStartUp="false" />
     <entry projectName="$USER_HOME$/GitHub/springboot" firstStartUp="false" />
     <entry projectName="$USER_HOME$/IdeaProjects/FOSS_PROJECT/SERVER/foss/branches/FOSS_GS_20180503_1.4.0.026" firstStartUp="false" />
