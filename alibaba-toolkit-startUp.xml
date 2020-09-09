@@ -1,0 +1,8 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/GitHub/bubble" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/GitHub/java-learning" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/GitHub/springboot-demo" startUpFlag="FIRST" />
+  </component>
+</application>
