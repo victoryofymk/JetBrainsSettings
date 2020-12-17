@@ -1070,6 +1070,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.postfixtemplates">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.endrullis.idea.postfixtemplates" />
+              <option name="myPluginName" value="Custom Postfix Templates" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ppm">
           <value>
             <plugin>
@@ -1409,6 +1417,14 @@
               <option name="myPluginId" value="com.intellij.velocity" />
               <option name="myPluginName" value="Velocity" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vue">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
+              <option name="myPluginName" value="Vue.js" />
             </plugin>
           </value>
         </entry>
