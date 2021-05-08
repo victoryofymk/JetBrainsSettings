@@ -1,6 +1,7 @@
 <templateSet group="Mybatis/SQL">
   <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
     <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context />
   </template>
   <template name="PK" value="&lt;insert id=&quot;$id$&quot; parameterType=&quot;&quot; useGeneratedKeys=&quot;true&quot; keyProperty=&quot;id&quot;&gt;&#10;  insert into $table$(name, age) values(#{name}, #{age})&#10;&lt;/insert&gt;" description="insert return int" toReformat="false" toShortenFQNames="true">
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
