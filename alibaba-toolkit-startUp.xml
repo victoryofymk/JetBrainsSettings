@@ -7,5 +7,6 @@
     <entry projectPath="$USER_HOME$/GitHub/skywalking-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/GitHub/springboot-demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/SourceCode/kong-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/SourceCode/skywalking" startUpFlag="FIRST" />
   </component>
 </application>
