@@ -1,6 +1,8 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/GitHub/CodeGenerator" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/GitHub/CodeGenerator-1" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/GitHub/bubble" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/GitHub/demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/GitHub/java-learning" startUpFlag="FIRST" />
